@@ -1,0 +1,8 @@
+.prymidContainer{
+  text-align: center;
+  width: 100%;
+}
+.inputContainer span{
+  display: table-cell;
+  vertical-align: middle;
+}

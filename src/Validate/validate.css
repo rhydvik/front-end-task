@@ -1,0 +1,23 @@
+.pageContainer{
+  width: 100%;
+  text-align: center;
+
+}
+
+.inputContainer{
+  width: 400px;
+  height: 150px;
+  background: white;
+  margin: 50px auto;
+  display: table;
+  box-shadow: 2px 2px 2px #999;
+}
+
+.inputContainer form{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.highlight{
+  border:1px solid red;
+}

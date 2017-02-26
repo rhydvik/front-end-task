@@ -1,0 +1,29 @@
+.imageContainer{
+  width: 100%;
+}
+
+.image{
+  width: 70%;
+}
+
+.divHeight{
+  height: 600px;
+}
+
+.floatingDiv{
+  position: relative;
+  height: 150px;
+  width: 70px;
+  background: black;
+}
+.fixedDiv{
+  position: fixed;
+  top:0;
+  height: 150px;
+  width: 70px;
+  background:black;
+}
+.prymidContainer{
+  width: 100%;
+
+}

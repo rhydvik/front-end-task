@@ -1,0 +1,38 @@
+@import "./Validate/validate.css";
+@import "./FixedImage/fixed.css";
+body{
+  background: #EEEEEE;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.QuestionBox{
+  width: 400px;
+  height: 100px;
+  box-shadow: 2px 2px 2px #212121;
+  background: white;
+  display: table;
+  margin: 20px auto;
+}
+
+.QuestionBox button{
+  border: none;
+  background: #26A69A;
+  color: white;
+  height: 35px;
+  width: 100px;
+}
+
+.QuestionBox span{
+  display: table-cell;
+  vertical-align: middle;
+  font-size:15px;
+}
+
+
+.hidden{
+  display: none;
+}
